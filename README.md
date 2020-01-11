@@ -1,2 +1,3 @@
-# mat167
- Mat 167 Fall 2019
+# MAT 167 Applied Linear Algebra
+
+## 
