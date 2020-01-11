@@ -1,6 +1,7 @@
 # MAT 167 Applied Linear Algebra
 
 ## Concepts Covered
+* MATLAB
 * Matrix/Vector Norms
 * Condition Numbers
 * Normal Equations / Pseudoinverse
@@ -12,3 +13,7 @@
 * Eigenvalues / Eigenvectors
 * Least Squares
 * Singular Value Decomposition
+
+
+## HW 1
+* 
