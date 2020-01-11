@@ -1,13 +1,14 @@
 # MAT 167 Applied Linear Algebra
 
 ## Concepts Covered
-* Review of Linear Algebra
-* Norms
-* Inner/Outer Products
+* Matrix/Vector Norms
+* Condition Numbers
+* Normal Equations / Pseudoinverse
+* Projectors / Orthogonal Projectors
 * Gram-Schmidt Orthogonalization
 * QR Factorization
+* SVD Factorization
 * Householder Triangularization
-* Singular Value Decomposition
-* Projections
-* Least Squares
 * Eigenvalues / Eigenvectors
+* Least Squares
+* Singular Value Decomposition
